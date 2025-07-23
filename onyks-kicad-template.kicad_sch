@@ -1,0 +1,57 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "989bcf9e-b73b-4d3a-9729-cc5398f58d21")
+	(paper "A4")
+	(title_block
+		(title "${PROJECT_NAME}")
+		(date "${ISSUE_DATE}")
+		(rev "${REVISION}")
+		(company "${COMPANY} ${COMPANY_GITHUB}")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+	(embedded_files
+		(file
+			(name "onyks-kicad-template.kicad_wks")
+			(type worksheet)
+			(data |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
+				vQsn2Fhf61OxnMQT8x3jcq9FyPP4OoDeA7o0|
+			)
+			(checksum "DF8399E6F1A1D88F89F851584A3E0F58")
+		)
+	)
+)
